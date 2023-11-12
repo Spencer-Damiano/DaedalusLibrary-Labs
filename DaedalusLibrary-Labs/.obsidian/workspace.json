@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d829dc7735f88659",
+    "type": "split",
+    "children": [
+      {
+        "id": "dce43184be08711f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2239fe356729d0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6686ec5e7afcb8eb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "🗂️ Index/LABS KANBAN.md"
+              }
+            }
+          },
+          {
+            "id": "5a11e94453593e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂️ Index/🛠️Projects/🍅Flowmodoro/Flowmodoro.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ce6b103038f0bc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e07164850bc12fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5520061a4ea7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d18257a203a7e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca8ae77c6096d97b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e43060b9e0c6a2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43720fbb6932270b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b23a672784ecdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab4cc7f02f5656e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03c191fb428301d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb2971057fa58c26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "026a3500fc44ff92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2239fe356729d0b7",
+  "lastOpenFiles": [
+    "🗂️ Index/✍️Blog/Project Visions and Timeline.md",
+    "🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+    "🗂️ Index/🛠️Projects/🖥️DaedalusLibrary.com/DaedalusLibrary.com.md",
+    "Z_Templates/T - Blog post.md",
+    "🗂️ Index/LABS KANBAN.md",
+    "🗂️ Index/🛠️Projects/🍅Flowmodoro/Flowmodoro.md",
+    "🗂️ Index/🛠️Projects/✅Completed",
+    "🗂️ Index/🛠️Projects/🏹Arrow AI/Arrow AI.md",
+    "🗂️ Index/LABS OVERVIEW.md",
+    "🗂️ Index/README.md",
+    "Z_Templates/T - New Note.md",
+    "🗂️ Index/STYLE GUIDE.md",
+    "🗂️ Index",
+    "🗂️ Index/🛠️Projects/🏹Arrow AI",
+    "🗂️ Index/🛠️Projects/🖥️DaedalusLibrary.com",
+    "🗂️ Index/🛠️Projects/🍅Flowmodoro",
+    "🗂️ Index/🛠️Projects",
+    "VR_AR_Education_Project_Plan.md",
+    "Philosophy in Development and Design.md",
+    "🗂️ Index/🏛️Library",
+    "Untitled 1",
+    "🗂️ Index/✍️Blog",
+    "Z_Templates"
+  ]
+}
