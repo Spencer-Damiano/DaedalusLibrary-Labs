@@ -11,8 +11,12 @@
             "id": "a3fe5b1674e00853",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -139,10 +147,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3fe5b1674e00853",
+  "active": "98ddfda04e2adc5e",
   "lastOpenFiles": [
+    "DaedalusLibrary-Labs/🗂️ Index/STYLE GUIDE.md",
     "DaedalusLibrary-Labs/🗂️ Index/LABS KANBAN.md",
+    "DaedalusLibrary-Labs/🗂️ Index/✍️Blog/Update Review DLU 0.0.1.md",
+    "DaedalusLibrary-Labs/🗂️ Index/LABS OVERVIEW.md",
+    "DaedalusLibrary-Labs/🗂️ Index/✍️Blog/Project Visions and Timeline.md",
+    "DaedalusLibrary-Labs/🗂️ Index/🛠️Projects/🍅Flowmodoro/Flowmodoro.md",
+    "DaedalusLibrary-Labs/🗂️ Index/🛠️Projects/🏹Arrow AI/Arrow AI.md",
     "README.md",
+    "DaedalusLibrary-Labs/Z_Templates/T - Blog post.md",
+    "DaedalusLibrary-Labs/Z_Templates/T - New Note.md",
     "DaedalusLibrary-Labs/🗂️ Index/README.md"
   ]
 }

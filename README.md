@@ -4,7 +4,7 @@ This Obsidian Vault is where I will be keeping notes and records for idea about 
 
 The hope is that once successful that the same technology can be used in treating nuero-typical people. An example of this is Dr. Alvin Liberman, who worked on an early reading machine to help WW2 veterans who were blinded by the war. In creating this technology he discovered the need for phonemic awareness being integral to learning to read and write. This just happens to be the same circuitry that is different in people with Dyslexia.
 
-For more information on my philosophy toward approaching this technology see [[Project ]]. This covers where I think how to best develop technology to be an aid and not a crutch. I think that like all good innovations it explains how to best create the next generation of this type of technology.
+For more information on my philosophy toward approaching this technology see [[Project Visions and Timeline]]. This covers where I think how to best develop technology to be an aid and not a crutch. I think that like all good innovations it explains how to best create the next generation of this type of technology.
 
 # Vault Tour
 
@@ -27,7 +27,7 @@ Obsidian in a Markdown editor and note taking app. I've used it in the past and 
 - Advanced Tables
 	- Used whenever I create tables in markdown to make them look better and easier to use.
 - Obsidian Git
-	- Used to interact and update my github repo where I store this.
+	- Used to interact and update my GitHub repo where I store this.
 
 # Useful Websites
 
@@ -38,9 +38,7 @@ Obsidian in a Markdown editor and note taking app. I've used it in the past and 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - YouTube Video Generator
-- ToDo and Distraction Lists
+- To-Do and Distraction Lists
 - IDA GPT
 - Arrow Ai
