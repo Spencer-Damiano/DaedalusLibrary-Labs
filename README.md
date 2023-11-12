@@ -8,7 +8,7 @@ For more information on my philosophy toward approaching this technology see [[P
 
 # Vault Tour
 
-A Video breaking down the vault and its features can be found here - [Software Demo Video](http://youtube.link.goes.here)
+A Video breaking down the vault and its features can be found here - [Software Demo Video](https://youtu.be/wBTcuIl3D7g)
 
 # Obsidian
 
